@@ -4,8 +4,10 @@ This repo houses the code used to tweet to [@pantheonW](https://twitter.com/Pant
 
 ## Install
 1. Install all required npm packages
+
 ```npm i```
-2. Need twitter credentials, look at `condig.js`
+
+2. Need twitter credentials, look at `config.js`.
 
 ## Run
 ```
