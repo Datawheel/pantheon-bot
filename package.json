@@ -1,0 +1,20 @@
+{
+  "name": "pantheon-bot",
+  "version": "1.0.0",
+  "description": "A bot that tweets links to random pantheon biographies",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Simoes",
+  "license": "ISC",
+  "dependencies": {
+    "fetch-base64": "^2.1.2",
+    "node-fetch": "^2.3.0",
+    "puppeteer-core": "^1.13.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1"
+  }
+}

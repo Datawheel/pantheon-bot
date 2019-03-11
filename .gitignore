@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+
+# node modules should never be synced with git
+node_modules
+
+# environment variable files for autoenv and direnv
+.env
+.envrc
